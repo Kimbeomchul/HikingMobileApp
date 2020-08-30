@@ -1,7 +1,7 @@
 ## 2019 Capstone Design Project
 - 멤버 : 이지연, 윤준기, 김범철
 - 제작 기간 : Sep 2019 ~ Dec 2019
-
+- 맡은파트 : REST-API를 통한 정보전달
 ## Demo
 
 <img src="img/capstone.gif" width="300">
